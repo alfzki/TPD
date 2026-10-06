@@ -1,0 +1,1920 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Pig dan Kafka",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          61.44,
+          202.08001708984375
+        ],
+        [
+          364.79999999999995,
+          202.08001708984375
+        ],
+        [
+          364.79999999999995,
+          265.260009765625
+        ],
+        [
+          61.44,
+          265.260009765625
+        ]
+      ]
+    },
+    {
+      "title": "Agenda Pertemuan",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.519999999999996,
+          49.67999267578125
+        ],
+        [
+          442.56000000000006,
+          49.67999267578125
+        ],
+        [
+          442.56000000000006,
+          105.83999633789062
+        ],
+        [
+          35.519999999999996,
+          105.83999633789062
+        ]
+      ]
+    },
+    {
+      "title": "Apache Pig",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          283.2,
+          164.17999267578125
+        ],
+        [
+          535.6800000000001,
+          164.17999267578125
+        ],
+        [
+          535.6800000000001,
+          215.46000000000004
+        ],
+        [
+          283.2,
+          215.46000000000004
+        ]
+      ]
+    },
+    {
+      "title": "Pig pada Hadoop",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          61.44,
+          49.67999267578125
+        ],
+        [
+          401.28,
+          49.67999267578125
+        ],
+        [
+          401.28,
+          105.83999633789062
+        ],
+        [
+          61.44,
+          105.83999633789062
+        ]
+      ]
+    },
+    {
+      "title": "Pig: High-Level Data Flow Platform",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          34.56,
+          49.67999267578125
+        ],
+        [
+          750.72,
+          49.67999267578125
+        ],
+        [
+          750.72,
+          105.83999633789062
+        ],
+        [
+          34.56,
+          105.83999633789062
+        ]
+      ]
+    },
+    {
+      "title": "Apache Pig",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          34.56,
+          49.67999267578125
+        ],
+        [
+          288.0,
+          49.67999267578125
+        ],
+        [
+          288.0,
+          105.84
+        ],
+        [
+          34.56,
+          105.84
+        ]
+      ]
+    },
+    {
+      "title": "Fitur Pig",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          61.44,
+          49.67999267578125
+        ],
+        [
+          234.24,
+          49.67999267578125
+        ],
+        [
+          234.24,
+          105.83999633789062
+        ],
+        [
+          61.44,
+          105.83999633789062
+        ]
+      ]
+    },
+    {
+      "title": "Pig vs Hive",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          34.56,
+          49.67999267578125
+        ],
+        [
+          282.24,
+          49.67999267578125
+        ],
+        [
+          282.24,
+          105.83999633789062
+        ],
+        [
+          34.56,
+          105.83999633789062
+        ]
+      ]
+    },
+    {
+      "title": "Arsitektur Apache Pig",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          35.519999999999996,
+          49.67999267578125
+        ],
+        [
+          503.04,
+          49.67999267578125
+        ],
+        [
+          503.04,
+          105.83999633789062
+        ],
+        [
+          35.519999999999996,
+          105.83999633789062
+        ]
+      ]
+    },
+    {
+      "title": "Apache Pig Data Model",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          39.36,
+          31.199981689453125
+        ],
+        [
+          506.88,
+          31.199981689453125
+        ],
+        [
+          506.88,
+          87.3599853515625
+        ],
+        [
+          39.36,
+          87.3599853515625
+        ]
+      ]
+    },
+    {
+      "title": "Eksekusi Apache Pig",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          36.480000000000004,
+          38.339999999999996
+        ],
+        [
+          439.68,
+          38.339999999999996
+        ],
+        [
+          439.68,
+          86.4
+        ],
+        [
+          36.480000000000004,
+          86.4
+        ]
+      ]
+    },
+    {
+      "title": "\u2022 Dua cara eksekusi:",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          49.92,
+          142.56
+        ],
+        [
+          240.95999999999998,
+          142.56
+        ],
+        [
+          240.95999999999998,
+          161.46
+        ],
+        [
+          49.92,
+          161.46
+        ]
+      ]
+    },
+    {
+      "title": "\u2022 Grunt/Interactive: $ pig",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          49.92,
+          273.24
+        ],
+        [
+          310.08,
+          273.24
+        ],
+        [
+          310.08,
+          295.38
+        ],
+        [
+          49.92,
+          295.38
+        ]
+      ]
+    },
+    {
+      "title": "\u2022 Batch: eksekusi menggunakan Pig Scripts",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          49.92,
+          329.94
+        ],
+        [
+          437.76000000000005,
+          329.94
+        ],
+        [
+          437.76000000000005,
+          352.08
+        ],
+        [
+          49.92,
+          352.08
+        ]
+      ]
+    },
+    {
+      "title": "\u2022 Embedded (UDF): menyematkan dan eksekusi Pig Script di Java, python, dan Ruby",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          49.92,
+          472.5
+        ],
+        [
+          806.4000000000001,
+          472.5
+        ],
+        [
+          806.4000000000001,
+          494.1
+        ],
+        [
+          49.92,
+          494.1
+        ]
+      ]
+    },
+    {
+      "title": "Pig Latin",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          61.44,
+          49.67999267578125
+        ],
+        [
+          237.11999999999998,
+          49.67999267578125
+        ],
+        [
+          237.11999999999998,
+          105.83999633789062
+        ],
+        [
+          61.44,
+          105.83999633789062
+        ]
+      ]
+    },
+    {
+      "title": "Contoh Script Pig Latin",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          34.56,
+          49.67999267578125
+        ],
+        [
+          528.96,
+          49.67999267578125
+        ],
+        [
+          528.96,
+          105.83999633789062
+        ],
+        [
+          34.56,
+          105.83999633789062
+        ]
+      ]
+    },
+    {
+      "title": "Pig Latin: relational operators",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          58.751999999999995,
+          291.5999755859375
+        ],
+        [
+          636.71044921875,
+          291.5999755859375
+        ],
+        [
+          636.71044921875,
+          347.7599792480469
+        ],
+        [
+          58.751999999999995,
+          347.7599792480469
+        ]
+      ]
+    },
+    {
+      "title": "Pig Latin: expressions",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          61.44,
+          57.779999999999994
+        ],
+        [
+          488.64,
+          57.779999999999994
+        ],
+        [
+          488.64,
+          104.76
+        ],
+        [
+          61.44,
+          104.76
+        ]
+      ]
+    },
+    {
+      "title": "Contoh Pig Latin",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          34.56,
+          49.67999267578125
+        ],
+        [
+          401.28,
+          49.67999267578125
+        ],
+        [
+          401.28,
+          105.83999633789062
+        ],
+        [
+          34.56,
+          105.83999633789062
+        ]
+      ]
+    },
+    {
+      "title": "Contoh Pig Latin",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          34.56,
+          49.67999267578125
+        ],
+        [
+          401.28,
+          49.67999267578125
+        ],
+        [
+          401.28,
+          105.83999633789062
+        ],
+        [
+          34.56,
+          105.83999633789062
+        ]
+      ]
+    },
+    {
+      "title": "Apache Pig: Use Cases",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          34.56,
+          49.67999267578125
+        ],
+        [
+          514.5600000000001,
+          49.67999267578125
+        ],
+        [
+          514.5600000000001,
+          105.83999633789062
+        ],
+        [
+          34.56,
+          105.83999633789062
+        ]
+      ]
+    },
+    {
+      "title": "Kafka is not a component of Hadoop",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          34.56,
+          49.67999267578125
+        ],
+        [
+          794.8799999999999,
+          49.67999267578125
+        ],
+        [
+          794.8799999999999,
+          105.83999633789062
+        ],
+        [
+          34.56,
+          105.83999633789062
+        ]
+      ]
+    },
+    {
+      "title": "Apache Kafka",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          61.44,
+          57.779999999999994
+        ],
+        [
+          337.91999999999996,
+          57.779999999999994
+        ],
+        [
+          337.91999999999996,
+          105.84
+        ],
+        [
+          61.44,
+          105.84
+        ]
+      ]
+    },
+    {
+      "title": "Apa itu data real-time? data streaming?",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          35.519999999999996,
+          49.67999267578125
+        ],
+        [
+          836.7354125976562,
+          49.67999267578125
+        ],
+        [
+          836.7354125976562,
+          105.83999633789062
+        ],
+        [
+          35.519999999999996,
+          105.83999633789062
+        ]
+      ]
+    },
+    {
+      "title": "Konsep dalam Apache Kafka",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          32.64,
+          49.67999267578125
+        ],
+        [
+          624.0,
+          49.67999267578125
+        ],
+        [
+          624.0,
+          105.83999633789062
+        ],
+        [
+          32.64,
+          105.83999633789062
+        ]
+      ]
+    },
+    {
+      "title": "Ilustrasi Topic, Partition, dan Offset",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          34.56,
+          49.67999267578125
+        ],
+        [
+          763.2,
+          49.67999267578125
+        ],
+        [
+          763.2,
+          105.83999633789062
+        ],
+        [
+          34.56,
+          105.83999633789062
+        ]
+      ]
+    },
+    {
+      "title": "Bagaimana Apache Kafka Bekerja?",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          34.56,
+          49.67999267578125
+        ],
+        [
+          723.84,
+          49.67999267578125
+        ],
+        [
+          723.84,
+          105.83999633789062
+        ],
+        [
+          34.56,
+          105.83999633789062
+        ]
+      ]
+    },
+    {
+      "title": "Kafka \u00e0 Cluster Hadoop",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          32.64,
+          49.919952392578125
+        ],
+        [
+          567.36,
+          49.919952392578125
+        ],
+        [
+          567.36,
+          106.0799560546875
+        ],
+        [
+          32.64,
+          106.0799560546875
+        ]
+      ]
+    },
+    {
+      "title": "Kafka Basic Commands \u2013 kafka-topics.sh",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          32.64,
+          52.47796630859375
+        ],
+        [
+          832.3199999999999,
+          52.47796630859375
+        ],
+        [
+          832.3199999999999,
+          104.50799560546875
+        ],
+        [
+          32.64,
+          104.50799560546875
+        ]
+      ]
+    },
+    {
+      "title": "Kafka Basic Commands",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          32.64,
+          49.67999267578125
+        ],
+        [
+          525.1200000000001,
+          49.67999267578125
+        ],
+        [
+          525.1200000000001,
+          105.83999633789062
+        ],
+        [
+          32.64,
+          105.83999633789062
+        ]
+      ]
+    },
+    {
+      "title": "Kafka Basic Commands",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          32.64,
+          49.67999267578125
+        ],
+        [
+          525.1200000000001,
+          49.67999267578125
+        ],
+        [
+          525.1200000000001,
+          105.83999633789062
+        ],
+        [
+          32.64,
+          105.83999633789062
+        ]
+      ]
+    },
+    {
+      "title": "Apache Kafka: Use Cases",
+      "heading_level": null,
+      "page_id": 29,
+      "polygon": [
+        [
+          53.760000000000005,
+          34.799957275390625
+        ],
+        [
+          555.8399999999999,
+          34.799957275390625
+        ],
+        [
+          555.8399999999999,
+          90.9599609375
+        ],
+        [
+          53.760000000000005,
+          90.9599609375
+        ]
+      ]
+    },
+    {
+      "title": "Referensi",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          37.331999999999994,
+          301.67999267578125
+        ],
+        [
+          249.696,
+          301.67999267578125
+        ],
+        [
+          249.696,
+          357.8399963378906
+        ],
+        [
+          37.331999999999994,
+          357.8399963378906
+        ]
+      ]
+    },
+    {
+      "title": "Terima kasih",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          331.2,
+          208.32000732421875
+        ],
+        [
+          618.24,
+          208.32000732421875
+        ],
+        [
+          618.24,
+          271.5
+        ],
+        [
+          331.2,
+          271.5
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          11
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          15
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 1,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Line",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          7
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          130
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          57
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          138
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          67
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 1,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          80
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          10
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "ListGroup",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          38
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          38
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 1,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 2,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          49
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          25
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "Diagram",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          43
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Picture",
+          6
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Line",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          63
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Diagram",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          124
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          89
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          45
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          109
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          25
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          48
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 28,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          33
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 29,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          46
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Picture",
+          6
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 30,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          19
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 31,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          5
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/11. Pig dan Kafka"
+}

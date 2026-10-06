@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="id" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TPD MasterClass | Platform Prediksi UAS 2025/2026</title>
+  <meta name="description" content="Platform Bimbingan Kursus Tambahan & Simulasi Ujian Interaktif Mata Kuliah Teknologi Pengolahan Data (TPD) Politeknik Statistika STIS">
+  
+  <!-- Google Fonts: Inter -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;600;700&display=swap" rel="stylesheet">
+  
+  <!-- Tailwind CSS via CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['Inter', 'sans-serif'],
+            mono: ['JetBrains Mono', 'monospace'],
+          },
+          colors: {
+            brand: {
+              50: '#eff6ff',
+              100: '#dbeafe',
+              200: '#bfdbfe',
+              500: '#3b82f6',
+              600: '#2563eb',
+              700: '#1d4ed8',
+              800: '#1e40af',
+              900: '#1e3a8a',
+            }
+          }
+        }
+      }
+    }
+  </script>
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100 min-h-screen flex flex-col font-sans antialiased transition-colors duration-200">
+
+  <!-- Header & Top Navigation -->
+  <header class="sticky top-0 z-50 glass-panel border-b border-slate-200/80 dark:border-slate-800/80 shadow-xs">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex items-center justify-between h-16">
+        
+        <!-- Logo & Title -->
+        <div class="flex items-center gap-3">
+          <div class="w-10 h-10 rounded-xl bg-gradient-to-tr from-blue-700 to-indigo-600 flex items-center justify-center text-white font-black text-lg shadow-md shadow-blue-500/20">
+            TPD
+          </div>
+          <div>
+            <div class="flex items-center gap-2">
+              <span class="font-extrabold text-sm sm:text-base tracking-tight text-slate-900 dark:text-white">TPD MasterClass</span>
+              <span class="px-2 py-0.5 rounded text-[10px] font-black uppercase tracking-wider bg-emerald-100 text-emerald-800 dark:bg-emerald-950 dark:text-emerald-300">
+                UAS 2025/2026
+              </span>
+            </div>
+            <p class="text-[11px] text-slate-500 dark:text-slate-400 hidden sm:block">Teknologi Pengolahan Data • Politeknik Statistika STIS</p>
+          </div>
+        </div>
+
+        <!-- Right Side Utility (Theme Toggle & Info) -->
+        <div class="flex items-center gap-2 sm:gap-3">
+          <button 
+            id="theme-toggle-btn"
+            type="button"
+            class="flex items-center gap-1.5 px-3 py-1.5 rounded-xl border border-slate-200 dark:border-slate-800 hover:bg-slate-100 dark:hover:bg-slate-800 text-xs font-semibold transition-all"
+            title="Ganti Tema Tampilan"
+          >
+            <span id="theme-icon">🌙</span>
+            <span id="theme-text" class="hidden md:inline">Dark Mode</span>
+          </button>
+
+          <a 
+            href="#print-guide" 
+            onclick="window.print(); return false;" 
+            class="hidden lg:flex items-center gap-1.5 px-3 py-1.5 rounded-xl border border-slate-200 dark:border-slate-800 hover:bg-slate-100 dark:hover:bg-slate-800 text-xs font-semibold text-slate-600 dark:text-slate-300 transition-all"
+          >
+            <span>🖨️</span>
+            <span>Cetak PDF</span>
+          </a>
+        </div>
+
+      </div>
+
+      <!-- Main Navigation Tabs (Desktop & Mobile Scrollable) -->
+      <nav class="flex space-x-1 overflow-x-auto pb-2 sm:pb-3 no-scrollbar border-t border-slate-100 dark:border-slate-800/60 pt-2 text-xs md:text-sm">
+        <button data-tab-target="blueprint" class="px-3.5 py-1.5 rounded-lg whitespace-nowrap bg-blue-600 text-white font-semibold transition-all">
+          📊 Blueprint & Prediksi
+        </button>
+        <button data-tab-target="quiz" class="px-3.5 py-1.5 rounded-lg whitespace-nowrap text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 font-medium transition-all">
+          📝 Simulasi Ujian (30 PG)
+        </button>
+        <button data-tab-target="lab-mr" class="px-3.5 py-1.5 rounded-lg whitespace-nowrap text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 font-medium transition-all">
+          ⚙️ Lab Esai MapReduce
+        </button>
+        <button data-tab-target="prediksi-esai" class="px-3.5 py-1.5 rounded-lg whitespace-nowrap text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 font-medium transition-all">
+          🎯 3 Esai Prediksi
+        </button>
+        <button data-tab-target="flashcards-scd" class="px-3.5 py-1.5 rounded-lg whitespace-nowrap text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 font-medium transition-all">
+          ⚡ Flashcards & SCD Lab
+        </button>
+        <button data-tab-target="arsip" class="px-3.5 py-1.5 rounded-lg whitespace-nowrap text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 font-medium transition-all">
+          🏛️ Arsip Asli 2022/2023
+        </button>
+      </nav>
+
+    </div>
+  </header>
+
+  <!-- Main Content Container -->
+  <main class="flex-1 max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-6">
+
+    <!-- TAB 1: BLUEPRINT & PREDIKSI MENTOR -->
+    <section id="section-blueprint" class="tab-content-section">
+      <div id="blueprint-container">
+        <!-- Rendered dynamically by app.js -->
+      </div>
+    </section>
+
+    <!-- TAB 2: SIMULASI UJIAN INTERAKTIF (30 PG) -->
+    <section id="section-quiz" class="tab-content-section hidden">
+      <div id="quiz-header-container">
+        <!-- Filter bar rendered by app.js -->
+      </div>
+
+      <div class="grid grid-cols-1 lg:grid-cols-12 gap-6 items-start">
+        <!-- Left: Question Card (Col 8) -->
+        <div class="lg:col-span-8" id="quiz-card-container">
+          <!-- Question rendered by app.js -->
+        </div>
+
+        <!-- Right: Palette & Summary (Col 4) -->
+        <div class="lg:col-span-4" id="quiz-palette-container">
+          <!-- Palette rendered by app.js -->
+        </div>
+      </div>
+    </section>
+
+    <!-- TAB 3: LABORATORIUM ESAI MAPREDUCE -->
+    <section id="section-lab-mr" class="tab-content-section hidden">
+      <div id="mr-pipeline-container">
+        <!-- Interactive visualizer rendered by app.js -->
+      </div>
+      <div id="mr-cases-container">
+        <!-- 6 Cases rendered by app.js -->
+      </div>
+
+      <!-- Self Evaluation Interactive Playground -->
+      <div class="p-6 rounded-2xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 shadow-sm mb-8">
+        <div class="mb-4">
+          <span class="text-xs font-bold uppercase tracking-wider text-blue-600 dark:text-blue-400">Tantangan Mandiri</span>
+          <h4 class="text-base md:text-lg font-bold text-slate-900 dark:text-slate-100">
+            ✍️ Formulir Latihan Menulis Esai MapReduce (Simulasi Ujian)
+          </h4>
+          <p class="text-xs text-slate-500 dark:text-slate-400">
+            Latih kemampuan Anda menyusun 5 komponen jawaban sebelum menghadapi naskah ujian sebenarnya
+          </p>
+        </div>
+
+        <div class="space-y-4 mb-5">
+          <div>
+            <label class="block text-xs font-bold uppercase text-slate-600 dark:text-slate-400 mb-1">1. Struktur Masukan &lt;k1, v1&gt;:</label>
+            <input type="text" id="practice-input" placeholder="Contoh: <ByteOffset (LongWritable), LineText (Text)>" class="w-full text-xs md:text-sm px-3.5 py-2.5 rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 text-slate-900 dark:text-slate-100">
+          </div>
+
+          <div>
+            <label class="block text-xs font-bold uppercase text-slate-600 dark:text-slate-400 mb-1">2. Logika Mapper & Pasangan Emit &lt;k2, v2&gt;:</label>
+            <textarea id="practice-mapper" rows="2" placeholder="Jelaskan ekstraksi kolom dan format Emit <k2, v2>..." class="w-full text-xs md:text-sm px-3.5 py-2.5 rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 text-slate-900 dark:text-slate-100"></textarea>
+          </div>
+
+          <div>
+            <label class="block text-xs font-bold uppercase text-slate-600 dark:text-slate-400 mb-1">3. Evaluasi Kelayakan & Logika Combiner:</label>
+            <textarea id="practice-combiner" rows="2" placeholder="Jelaskan apakah operasi asosiatif & komutatif serta pra-agregasi lokal..." class="w-full text-xs md:text-sm px-3.5 py-2.5 rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 text-slate-900 dark:text-slate-100"></textarea>
+          </div>
+
+          <div>
+            <label class="block text-xs font-bold uppercase text-slate-600 dark:text-slate-400 mb-1">4. Mekanisme Shuffle & Sort:</label>
+            <input type="text" id="practice-shuffle" placeholder="Jelaskan HashPartitioner dan grouping <k2, list(v2)>..." class="w-full text-xs md:text-sm px-3.5 py-2.5 rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 text-slate-900 dark:text-slate-100">
+          </div>
+
+          <div>
+            <label class="block text-xs font-bold uppercase text-slate-600 dark:text-slate-400 mb-1">5. Logika Reducer & Luaran HDFS &lt;k3, v3&gt;:</label>
+            <textarea id="practice-reducer" rows="2" placeholder="Jelaskan akumulasi akhir loop dan output yang ditulis ke HDFS..." class="w-full text-xs md:text-sm px-3.5 py-2.5 rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 text-slate-900 dark:text-slate-100"></textarea>
+          </div>
+        </div>
+
+        <button 
+          onclick="alert('Hebat! Anda telah melengkapi seluruh 5 komponen baku. Pastikan Anda menyebutkan tipe data Writable Hadoop dan menganalisis sifat komutatif Combiner saat ujian!')"
+          class="px-5 py-2.5 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs md:text-sm shadow-sm transition-all"
+        >
+          ✅ Evaluasi Format Jawaban Saya
+        </button>
+      </div>
+    </section>
+
+    <!-- TAB 4: PREDIKSI 3 SOAL ESAI UTAMA -->
+    <section id="section-prediksi-esai" class="tab-content-section hidden">
+      <div id="prediksi-esai-container">
+        <!-- Rendered dynamically by app.js -->
+      </div>
+    </section>
+
+    <!-- TAB 5: FLASHCARDS, SCD LAB & MATRIKS KOMPARASI -->
+    <section id="section-flashcards-scd" class="tab-content-section hidden">
+      <div id="flashcard-viewer-container">
+        <!-- Flashcard rendered by app.js -->
+      </div>
+
+      <div id="scd-simulator-container">
+        <!-- SCD simulator rendered by app.js -->
+      </div>
+
+      <div id="matrices-container">
+        <!-- Matrices rendered by app.js -->
+      </div>
+    </section>
+
+    <!-- TAB 6: ARSIP ASLI UAS 2022/2023 -->
+    <section id="section-arsip" class="tab-content-section hidden">
+      <div id="arsip-container">
+        <!-- Arsip rendered by app.js -->
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Exam Result Modal Dialog (Native HTML5 <dialog> per modern-web-guidance) -->
+  <dialog id="exam-result-dialog" class="rounded-2xl p-6 md:p-8 max-w-md w-full bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-slate-900 dark:text-slate-100 shadow-2xl backdrop:bg-slate-950/60 backdrop:backdrop-blur-xs">
+    <div class="text-center">
+      <div class="w-16 h-16 mx-auto mb-4 rounded-full bg-blue-100 dark:bg-blue-950 flex items-center justify-center text-3xl">
+        🎓
+      </div>
+      <h3 class="text-xl font-black mb-1">Hasil Simulasi Ujian UAS</h3>
+      <p class="text-xs text-slate-500 dark:text-slate-400 mb-6">Mata Kuliah Teknologi Pengolahan Data</p>
+
+      <div class="p-6 rounded-2xl bg-slate-50 dark:bg-slate-800/60 border border-slate-200 dark:border-slate-700 mb-6">
+        <div class="text-5xl font-black text-blue-600 dark:text-blue-400 mb-2">
+          <span id="result-score-val">0</span><span class="text-2xl font-normal text-slate-400">/100</span>
+        </div>
+        <div class="text-xs text-slate-600 dark:text-slate-400 mb-3">
+          Jawaban Benar: <strong id="result-correct-count" class="text-slate-900 dark:text-slate-100">0</strong>
+        </div>
+        <div>
+          <span id="result-status-badge" class="px-3 py-1 rounded-full text-xs font-bold bg-emerald-100 text-emerald-800">
+            LULUS KOMPETENSI
+          </span>
+        </div>
+      </div>
+
+      <p class="text-xs text-slate-600 dark:text-slate-400 mb-6 leading-relaxed">
+        Seluruh pembahasan dan kunci jawaban kini telah terbuka pada setiap nomor soal. Silakan periksa kembali nomor yang masih salah atau ditandai ragu-ragu.
+      </p>
+
+      <div class="flex gap-3">
+        <button 
+          onclick="document.getElementById('exam-result-dialog').close()" 
+          class="flex-1 py-2.5 rounded-xl bg-blue-600 hover:bg-blue-700 text-white font-bold text-xs md:text-sm shadow-sm transition-all"
+        >
+          🔍 Review Pembahasan Soal
+        </button>
+      </div>
+    </div>
+  </dialog>
+
+  <!-- Footer -->
+  <footer class="mt-auto border-t border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 text-xs text-slate-500 dark:text-slate-400 py-8">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row items-center justify-between gap-4">
+      <div>
+        <p class="font-bold text-slate-800 dark:text-slate-200">Portal Prediksi UAS Teknologi Pengolahan Data (TPD) 2025/2026</p>
+        <p class="mt-0.5">Politeknik Statistika STIS • Dosen Pengampu: Siti Mariyah, Ph.D • Rujukan: Tom White 4th Ed</p>
+      </div>
+      <div class="flex items-center gap-4 text-xs">
+        <button onclick="window.tpdApp.goToTab('blueprint')" class="hover:text-blue-600 transition-colors">Blueprint</button>
+        <button onclick="window.tpdApp.goToTab('quiz')" class="hover:text-blue-600 transition-colors">Simulasi 30 PG</button>
+        <button onclick="window.tpdApp.goToTab('lab-mr')" class="hover:text-blue-600 transition-colors">Lab MapReduce</button>
+        <button onclick="window.tpdApp.goToTab('prediksi-esai')" class="hover:text-blue-600 transition-colors">3 Esai Prediksi</button>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="js/data-questions.js"></script>
+  <script src="js/data-concepts.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

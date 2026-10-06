@@ -1,0 +1,7 @@
+{
+  "gemini_model_name": "gemini-3.8-flash",
+  "thinking_budget": 0,
+  "timeout": 60,
+  "max_retries": 5,
+  "retry_wait_time": 15
+}

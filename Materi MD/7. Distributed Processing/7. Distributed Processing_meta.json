@@ -1,0 +1,2931 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Distributed\nProcessing",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          61.44,
+          143.760009765625
+        ],
+        [
+          323.52,
+          143.760009765625
+        ],
+        [
+          323.52,
+          265.02001953125
+        ],
+        [
+          61.44,
+          265.02001953125
+        ]
+      ]
+    },
+    {
+      "title": "Agenda Pertemuan",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          33.6,
+          56.160003662109375
+        ],
+        [
+          427.20000000000005,
+          56.160003662109375
+        ],
+        [
+          427.20000000000005,
+          112.32000732421875
+        ],
+        [
+          33.6,
+          112.32000732421875
+        ]
+      ]
+    },
+    {
+      "title": "MapReduce pada Hadoop",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          33.6,
+          56.160003662109375
+        ],
+        [
+          554.8799999999999,
+          56.160003662109375
+        ],
+        [
+          554.8799999999999,
+          112.32000732421875
+        ],
+        [
+          33.6,
+          112.32000732421875
+        ]
+      ]
+    },
+    {
+      "title": "Distributed System",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          35.519999999999996,
+          56.160003662109375
+        ],
+        [
+          431.04,
+          56.160003662109375
+        ],
+        [
+          431.04,
+          112.32000732421875
+        ],
+        [
+          35.519999999999996,
+          112.32000732421875
+        ]
+      ]
+    },
+    {
+      "title": "Distributed Data Processing",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          35.519999999999996,
+          56.160003662109375
+        ],
+        [
+          606.72,
+          56.160003662109375
+        ],
+        [
+          606.72,
+          112.32000732421875
+        ],
+        [
+          35.519999999999996,
+          112.32000732421875
+        ]
+      ]
+    },
+    {
+      "title": "Apa itu MapReduce?",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          35.519999999999996,
+          56.160003662109375
+        ],
+        [
+          452.15999999999997,
+          56.160003662109375
+        ],
+        [
+          452.15999999999997,
+          112.32000732421875
+        ],
+        [
+          35.519999999999996,
+          112.32000732421875
+        ]
+      ]
+    },
+    {
+      "title": "Apa itu MapReduce?",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          33.6,
+          63.72
+        ],
+        [
+          452.15999999999997,
+          63.72
+        ],
+        [
+          452.15999999999997,
+          111.78
+        ],
+        [
+          33.6,
+          111.78
+        ]
+      ]
+    },
+    {
+      "title": "MapReduce: Simplified Data Processing on Large Clusters",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          109.44000000000001,
+          159.83999999999997
+        ],
+        [
+          448.32,
+          159.83999999999997
+        ],
+        [
+          448.32,
+          175.5
+        ],
+        [
+          109.44000000000001,
+          175.5
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          144.0,
+          285.65999999999997
+        ],
+        [
+          191.04000000000002,
+          285.65999999999997
+        ],
+        [
+          191.04000000000002,
+          297.00000000000006
+        ],
+        [
+          144.0,
+          297.00000000000006
+        ]
+      ]
+    },
+    {
+      "title": "Bagaimana MapReduce bekerja?",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          33.6,
+          56.160003662109375
+        ],
+        [
+          677.8259887695312,
+          56.160003662109375
+        ],
+        [
+          677.8259887695312,
+          112.32000732421875
+        ],
+        [
+          33.6,
+          112.32000732421875
+        ]
+      ]
+    },
+    {
+      "title": "Bagaimana MapReduce bekerja?",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          33.6,
+          56.160003662109375
+        ],
+        [
+          666.24,
+          56.160003662109375
+        ],
+        [
+          666.24,
+          112.32000732421875
+        ],
+        [
+          33.6,
+          112.32000732421875
+        ]
+      ]
+    },
+    {
+      "title": "1. Splitting (Pemecahan data masukan ).",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          48.96,
+          213.5360107421875
+        ],
+        [
+          438.72,
+          213.5360107421875
+        ],
+        [
+          438.72,
+          240.39801025390625
+        ],
+        [
+          48.96,
+          240.39801025390625
+        ]
+      ]
+    },
+    {
+      "title": "2. Mapping",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          48.96,
+          284.5760192871094
+        ],
+        [
+          175.68,
+          284.5760192871094
+        ],
+        [
+          175.68,
+          311.43800354003906
+        ],
+        [
+          48.96,
+          311.43800354003906
+        ]
+      ]
+    },
+    {
+      "title": "Bagaimana MapReduce bekerja?",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          33.6,
+          56.160003662109375
+        ],
+        [
+          666.24,
+          56.160003662109375
+        ],
+        [
+          666.24,
+          112.32000732421875
+        ],
+        [
+          33.6,
+          112.32000732421875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          48.0,
+          142.56
+        ],
+        [
+          288.96,
+          142.56
+        ],
+        [
+          288.96,
+          163.62
+        ],
+        [
+          48.0,
+          163.62
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          48.0,
+          337.5
+        ],
+        [
+          178.56,
+          337.5
+        ],
+        [
+          178.56,
+          357.48
+        ],
+        [
+          48.0,
+          357.48
+        ]
+      ]
+    },
+    {
+      "title": "Contoh Studi Kasus Lain",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          61.44,
+          55.08
+        ],
+        [
+          612.48,
+          55.08
+        ],
+        [
+          612.48,
+          99.35999999999999
+        ],
+        [
+          61.44,
+          99.35999999999999
+        ]
+      ]
+    },
+    {
+      "title": "Contoh Studi Kasus Lain",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          35.519999999999996,
+          56.160003662109375
+        ],
+        [
+          538.5600000000001,
+          56.160003662109375
+        ],
+        [
+          538.5600000000001,
+          112.32000732421875
+        ],
+        [
+          35.519999999999996,
+          112.32000732421875
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          75.84,
+          215.46000000000004
+        ],
+        [
+          126.72,
+          215.46000000000004
+        ],
+        [
+          126.72,
+          236.52
+        ],
+        [
+          75.84,
+          236.52
+        ]
+      ]
+    },
+    {
+      "title": "Input Output",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          81.43134307861328,
+          215.46000000000004
+        ],
+        [
+          553.92,
+          215.46000000000004
+        ],
+        [
+          553.92,
+          237.16796875
+        ],
+        [
+          81.43134307861328,
+          237.16796875
+        ]
+      ]
+    },
+    {
+      "title": "Contoh Studi Kasus Lain \u2013 composite key-value",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          35.519999999999996,
+          59.32000732421875
+        ],
+        [
+          890.8800000000001,
+          59.32000732421875
+        ],
+        [
+          890.8800000000001,
+          109.6300048828125
+        ],
+        [
+          35.519999999999996,
+          109.6300048828125
+        ]
+      ]
+    },
+    {
+      "title": "Map",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          566.4,
+          224.64
+        ],
+        [
+          607.6800000000001,
+          224.64
+        ],
+        [
+          607.6800000000001,
+          245.49600219726562
+        ],
+        [
+          566.4,
+          245.49600219726562
+        ]
+      ]
+    },
+    {
+      "title": "Reduce",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          566.4,
+          397.43999999999994
+        ],
+        [
+          636.48,
+          397.43999999999994
+        ],
+        [
+          636.48,
+          418.53600311279297
+        ],
+        [
+          566.4,
+          418.53600311279297
+        ]
+      ]
+    },
+    {
+      "title": "MapReduce Programming Model",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          35.519999999999996,
+          56.160003662109375
+        ],
+        [
+          689.28,
+          56.160003662109375
+        ],
+        [
+          689.28,
+          112.32000732421875
+        ],
+        [
+          35.519999999999996,
+          112.32000732421875
+        ]
+      ]
+    },
+    {
+      "title": "MapReduce (ilustrasi input - output)",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          33.6,
+          56.160003662109375
+        ],
+        [
+          759.36,
+          56.160003662109375
+        ],
+        [
+          759.36,
+          112.32000732421875
+        ],
+        [
+          33.6,
+          112.32000732421875
+        ]
+      ]
+    },
+    {
+      "title": "MapReduce Programming Model",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          35.519999999999996,
+          60.639984130859375
+        ],
+        [
+          583.6800000000001,
+          60.639984130859375
+        ],
+        [
+          583.6800000000001,
+          107.44000244140625
+        ],
+        [
+          35.519999999999996,
+          107.44000244140625
+        ]
+      ]
+    },
+    {
+      "title": "Map",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          72.96000000000001,
+          137.7120361328125
+        ],
+        [
+          123.84,
+          137.7120361328125
+        ],
+        [
+          123.84,
+          167.01602172851562
+        ],
+        [
+          72.96000000000001,
+          167.01602172851562
+        ]
+      ]
+    },
+    {
+      "title": "Reduce",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          72.96000000000001,
+          351.7920227050781
+        ],
+        [
+          151.68,
+          351.7920227050781
+        ],
+        [
+          151.68,
+          381.09600830078125
+        ],
+        [
+          72.96000000000001,
+          381.09600830078125
+        ]
+      ]
+    },
+    {
+      "title": "Contoh Program MapReduce \u2013 WordCount dalam Java",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          48.96,
+          44.82000000000001
+        ],
+        [
+          886.08,
+          44.82000000000001
+        ],
+        [
+          886.08,
+          129.6
+        ],
+        [
+          48.96,
+          129.6
+        ]
+      ]
+    },
+    {
+      "title": "Contoh Program MapReduce \u2013 WordCount dalam Java",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          48.0,
+          30.78
+        ],
+        [
+          884.1600000000001,
+          30.78
+        ],
+        [
+          884.1600000000001,
+          116.10000000000001
+        ],
+        [
+          48.0,
+          116.10000000000001
+        ]
+      ]
+    },
+    {
+      "title": "Aplikasi MapReduce",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          33.6,
+          60.639984130859375
+        ],
+        [
+          382.08000000000004,
+          60.639984130859375
+        ],
+        [
+          382.08000000000004,
+          107.44000244140625
+        ],
+        [
+          33.6,
+          107.44000244140625
+        ]
+      ]
+    },
+    {
+      "title": "Arsitektur MapReduce di Hadoop: High Level",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          46.08,
+          39.0400390625
+        ],
+        [
+          794.8799999999999,
+          39.0400390625
+        ],
+        [
+          794.8799999999999,
+          85.84002685546875
+        ],
+        [
+          46.08,
+          85.84002685546875
+        ]
+      ]
+    },
+    {
+      "title": "Arsitektur MapReduce di Hadoop: Detail",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          45.12,
+          46.9599609375
+        ],
+        [
+          723.84,
+          46.9599609375
+        ],
+        [
+          723.84,
+          93.75997924804688
+        ],
+        [
+          45.12,
+          93.75997924804688
+        ]
+      ]
+    },
+    {
+      "title": "Komponen-komponen dalam Arsitektur MapReduce",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          33.6,
+          60.639984130859375
+        ],
+        [
+          907.1999999999999,
+          60.639984130859375
+        ],
+        [
+          907.1999999999999,
+          107.44000244140625
+        ],
+        [
+          33.6,
+          107.44000244140625
+        ]
+      ]
+    },
+    {
+      "title": "Bagaimana data diproses di MapReduce Hadoop?",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          48.96,
+          31.359954833984375
+        ],
+        [
+          846.72,
+          31.359954833984375
+        ],
+        [
+          846.72,
+          78.15997314453125
+        ],
+        [
+          48.96,
+          78.15997314453125
+        ]
+      ]
+    },
+    {
+      "title": "Bagaimana data diproses di MapReduce Hadoop?",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          33.6,
+          60.639984130859375
+        ],
+        [
+          845.76,
+          60.639984130859375
+        ],
+        [
+          845.76,
+          107.44000244140625
+        ],
+        [
+          33.6,
+          107.44000244140625
+        ]
+      ]
+    },
+    {
+      "title": "Bagaimana data diproses di MapReduce Hadoop?",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          48.96,
+          47.439971923828125
+        ],
+        [
+          846.72,
+          47.439971923828125
+        ],
+        [
+          846.72,
+          94.239990234375
+        ],
+        [
+          48.96,
+          94.239990234375
+        ]
+      ]
+    },
+    {
+      "title": "Keterbatasan MapReduce dalam Hadoop",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          33.6,
+          60.639984130859375
+        ],
+        [
+          716.16,
+          60.639984130859375
+        ],
+        [
+          716.16,
+          107.44000244140625
+        ],
+        [
+          33.6,
+          107.44000244140625
+        ]
+      ]
+    },
+    {
+      "title": "Alternatives to MapReduce",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          33.6,
+          60.639984130859375
+        ],
+        [
+          498.24,
+          60.639984130859375
+        ],
+        [
+          498.24,
+          107.44000244140625
+        ],
+        [
+          33.6,
+          107.44000244140625
+        ]
+      ]
+    },
+    {
+      "title": "Yet Another Resource Negotiator (YARN)",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          35.519999999999996,
+          60.639984130859375
+        ],
+        [
+          749.76,
+          60.639984130859375
+        ],
+        [
+          749.76,
+          108.0
+        ],
+        [
+          35.519999999999996,
+          108.0
+        ]
+      ]
+    },
+    {
+      "title": "Hadoop 1",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          54.720000000000006,
+          164.176025390625
+        ],
+        [
+          189.12,
+          164.176025390625
+        ],
+        [
+          189.12,
+          203.24801635742188
+        ],
+        [
+          54.720000000000006,
+          203.24801635742188
+        ]
+      ]
+    },
+    {
+      "title": "HDFS",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          94.08,
+          358.03199768066406
+        ],
+        [
+          152.64000000000001,
+          358.03199768066406
+        ],
+        [
+          152.64000000000001,
+          387.33599853515625
+        ],
+        [
+          94.08,
+          387.33599853515625
+        ]
+      ]
+    },
+    {
+      "title": "MapReduce",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          59.519999999999996,
+          256.0320129394531
+        ],
+        [
+          186.24,
+          256.0320129394531
+        ],
+        [
+          186.24,
+          285.33599853515625
+        ],
+        [
+          59.519999999999996,
+          285.33599853515625
+        ]
+      ]
+    },
+    {
+      "title": "Hadoop 2 & 3",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          448.32,
+          166.33599853515625
+        ],
+        [
+          636.48,
+          166.33599853515625
+        ],
+        [
+          636.48,
+          205.40798950195312
+        ],
+        [
+          448.32,
+          205.40798950195312
+        ]
+      ]
+    },
+    {
+      "title": "HDFS",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          515.52,
+          372.4320068359375
+        ],
+        [
+          575.04,
+          372.4320068359375
+        ],
+        [
+          575.04,
+          401.7359924316406
+        ],
+        [
+          515.52,
+          401.7359924316406
+        ]
+      ]
+    },
+    {
+      "title": "YARN: Data Operating System",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          394.55999999999995,
+          297.31201171875
+        ],
+        [
+          696.96,
+          297.31201171875
+        ],
+        [
+          696.96,
+          326.6159973144531
+        ],
+        [
+          394.55999999999995,
+          326.6159973144531
+        ]
+      ]
+    },
+    {
+      "title": "YARN",
+      "heading_level": null,
+      "page_id": 29,
+      "polygon": [
+        [
+          48.96,
+          52.239959716796875
+        ],
+        [
+          156.48000000000002,
+          52.239959716796875
+        ],
+        [
+          156.48000000000002,
+          99.03997802734375
+        ],
+        [
+          48.96,
+          99.03997802734375
+        ]
+      ]
+    },
+    {
+      "title": "Arsitektur YARN",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          47.04,
+          42.640045166015625
+        ],
+        [
+          336.96,
+          42.640045166015625
+        ],
+        [
+          336.96,
+          89.44003295898438
+        ],
+        [
+          47.04,
+          89.44003295898438
+        ]
+      ]
+    },
+    {
+      "title": "v MapReduce on Hadoop Version 1",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          49.92,
+          131.45599365234375
+        ],
+        [
+          376.32,
+          131.45599365234375
+        ],
+        [
+          376.32,
+          158.3179931640625
+        ],
+        [
+          49.92,
+          158.3179931640625
+        ]
+      ]
+    },
+    {
+      "title": "v MapReduce on Hadoop YARN",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          49.92,
+          326.33599853515625
+        ],
+        [
+          341.76,
+          326.33599853515625
+        ],
+        [
+          341.76,
+          353.197998046875
+        ],
+        [
+          49.92,
+          353.197998046875
+        ]
+      ]
+    },
+    {
+      "title": "Arsitektur YARN",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          0.0,
+          56.160003662109375
+        ],
+        [
+          394.55999999999995,
+          56.160003662109375
+        ],
+        [
+          394.55999999999995,
+          112.32000732421875
+        ],
+        [
+          0.0,
+          112.32000732421875
+        ]
+      ]
+    },
+    {
+      "title": "Komponen-komponen dalam Arsitektur YARN",
+      "heading_level": null,
+      "page_id": 33,
+      "polygon": [
+        [
+          35.519999999999996,
+          60.639984130859375
+        ],
+        [
+          819.8399999999999,
+          60.639984130859375
+        ],
+        [
+          819.8399999999999,
+          107.44000244140625
+        ],
+        [
+          35.519999999999996,
+          107.44000244140625
+        ]
+      ]
+    },
+    {
+      "title": "Bagaimana Job dijalankan menggunakan YARN?",
+      "heading_level": null,
+      "page_id": 34,
+      "polygon": [
+        [
+          48.96,
+          41.200042724609375
+        ],
+        [
+          814.08,
+          41.200042724609375
+        ],
+        [
+          814.08,
+          88.00003051757812
+        ],
+        [
+          48.96,
+          88.00003051757812
+        ]
+      ]
+    },
+    {
+      "title": "Bagaimana Job dijalankan menggunakan YARN?",
+      "heading_level": null,
+      "page_id": 35,
+      "polygon": [
+        [
+          48.96,
+          44.319976806640625
+        ],
+        [
+          813.1199999999999,
+          44.319976806640625
+        ],
+        [
+          813.1199999999999,
+          91.1199951171875
+        ],
+        [
+          48.96,
+          91.1199951171875
+        ]
+      ]
+    },
+    {
+      "title": "File Konfigurasi pada Hadoop",
+      "heading_level": null,
+      "page_id": 36,
+      "polygon": [
+        [
+          34.884,
+          313.63200000000006
+        ],
+        [
+          612.0,
+          313.63200000000006
+        ],
+        [
+          612.0,
+          362.736
+        ],
+        [
+          34.884,
+          362.736
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 37,
+      "polygon": [
+        [
+          258.24,
+          261.36
+        ],
+        [
+          661.4399999999999,
+          261.36
+        ],
+        [
+          661.4399999999999,
+          307.79999999999995
+        ],
+        [
+          258.24,
+          307.79999999999995
+        ]
+      ]
+    },
+    {
+      "title": "Referensi",
+      "heading_level": null,
+      "page_id": 38,
+      "polygon": [
+        [
+          0.0,
+          308.1600036621094
+        ],
+        [
+          233.784,
+          308.1600036621094
+        ],
+        [
+          233.784,
+          364.32000732421875
+        ],
+        [
+          0.0,
+          364.32000732421875
+        ]
+      ]
+    },
+    {
+      "title": "Hadoop: The Definitive Guide",
+      "heading_level": null,
+      "page_id": 38,
+      "polygon": [
+        [
+          74.05199999999999,
+          391.6319580078125
+        ],
+        [
+          365.364,
+          391.6319580078125
+        ],
+        [
+          365.364,
+          420.9359436035156
+        ],
+        [
+          74.05199999999999,
+          420.9359436035156
+        ]
+      ]
+    },
+    {
+      "title": "MapReduce",
+      "heading_level": null,
+      "page_id": 38,
+      "polygon": [
+        [
+          48.96,
+          457.6319580078125
+        ],
+        [
+          172.58399999999997,
+          457.6319580078125
+        ],
+        [
+          172.58399999999997,
+          486.9359436035156
+        ],
+        [
+          48.96,
+          486.9359436035156
+        ]
+      ]
+    },
+    {
+      "title": "YARN",
+      "heading_level": null,
+      "page_id": 38,
+      "polygon": [
+        [
+          48.96,
+          580.7519989013672
+        ],
+        [
+          107.23091888427734,
+          580.7519989013672
+        ],
+        [
+          107.23091888427734,
+          610.0559997558594
+        ],
+        [
+          48.96,
+          610.0559997558594
+        ]
+      ]
+    },
+    {
+      "title": "Agenda Pertemuan",
+      "heading_level": null,
+      "page_id": 39,
+      "polygon": [
+        [
+          35.519999999999996,
+          61.720001220703125
+        ],
+        [
+          388.80000000000007,
+          61.720001220703125
+        ],
+        [
+          388.80000000000007,
+          112.02999877929688
+        ],
+        [
+          35.519999999999996,
+          112.02999877929688
+        ]
+      ]
+    },
+    {
+      "title": "Terima kasih",
+      "heading_level": null,
+      "page_id": 40,
+      "polygon": [
+        [
+          331.2,
+          208.32000732421875
+        ],
+        [
+          618.24,
+          208.32000732421875
+        ],
+        [
+          618.24,
+          271.5
+        ],
+        [
+          331.2,
+          271.5
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          11
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          19
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 4,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          13
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          40
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          76
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          18
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          3
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          55
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          69
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 1,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          23
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 3,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          45
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Diagram",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Line",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          39
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          31
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          35
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          19
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          5
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          11
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          152
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          100
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "Diagram",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          100
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          40
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          135
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          13
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 28,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          46
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 29,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          19
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 30,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          137
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 31,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          17
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "Diagram",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 1,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 32,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Line",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 1,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 33,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 34,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          3
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 35,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          163
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 36,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          17
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 37,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 38,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          18
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 39,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          19
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 3,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 40,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          5
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/7. Distributed Processing"
+}

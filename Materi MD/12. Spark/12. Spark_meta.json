@@ -1,0 +1,1926 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Spark",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          61.44,
+          202.08001708984375
+        ],
+        [
+          197.76,
+          202.08001708984375
+        ],
+        [
+          197.76,
+          265.260009765625
+        ],
+        [
+          61.44,
+          265.260009765625
+        ]
+      ]
+    },
+    {
+      "title": "Agenda Pertemuan",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          33.6,
+          61.720001220703125
+        ],
+        [
+          388.80000000000007,
+          61.720001220703125
+        ],
+        [
+          388.80000000000007,
+          112.02999877929688
+        ],
+        [
+          33.6,
+          112.02999877929688
+        ]
+      ]
+    },
+    {
+      "title": "Spark in Hadoop",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          45.12,
+          41.79998779296875
+        ],
+        [
+          349.43999999999994,
+          41.79998779296875
+        ],
+        [
+          349.43999999999994,
+          92.1099853515625
+        ],
+        [
+          45.12,
+          92.1099853515625
+        ]
+      ]
+    },
+    {
+      "title": "Apa itu Spark?",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          33.6,
+          63.18000000000001
+        ],
+        [
+          306.24,
+          63.18000000000001
+        ],
+        [
+          306.24,
+          106.92
+        ],
+        [
+          33.6,
+          106.92
+        ]
+      ]
+    },
+    {
+      "title": "Apache Spark Ecosystem",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          35.519999999999996,
+          49.67999267578125
+        ],
+        [
+          560.64,
+          49.67999267578125
+        ],
+        [
+          560.64,
+          105.83999633789062
+        ],
+        [
+          35.519999999999996,
+          105.83999633789062
+        ]
+      ]
+    },
+    {
+      "title": "Fitur Spark",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          48.96,
+          41.58
+        ],
+        [
+          251.52,
+          41.58
+        ],
+        [
+          251.52,
+          85.86
+        ],
+        [
+          48.96,
+          85.86
+        ]
+      ]
+    },
+    {
+      "title": "Features of Spark",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          370.56000000000006,
+          156.06
+        ],
+        [
+          564.48,
+          156.06
+        ],
+        [
+          564.48,
+          181.98000000000002
+        ],
+        [
+          370.56000000000006,
+          181.98000000000002
+        ]
+      ]
+    },
+    {
+      "title": "Fitur Spark",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          32.64,
+          49.67999267578125
+        ],
+        [
+          288.96,
+          49.67999267578125
+        ],
+        [
+          288.96,
+          105.83999633789062
+        ],
+        [
+          32.64,
+          105.83999633789062
+        ]
+      ]
+    },
+    {
+      "title": "Fitur Spark",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          32.64,
+          49.67999267578125
+        ],
+        [
+          288.96,
+          49.67999267578125
+        ],
+        [
+          288.96,
+          105.83999633789062
+        ],
+        [
+          32.64,
+          105.83999633789062
+        ]
+      ]
+    },
+    {
+      "title": "Fitur Spark",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          34.56,
+          49.67999267578125
+        ],
+        [
+          288.96,
+          49.67999267578125
+        ],
+        [
+          288.96,
+          105.83999633789062
+        ],
+        [
+          34.56,
+          105.83999633789062
+        ]
+      ]
+    },
+    {
+      "title": "Fitur Spark",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          32.64,
+          49.67999267578125
+        ],
+        [
+          288.96,
+          49.67999267578125
+        ],
+        [
+          288.96,
+          105.83999633789062
+        ],
+        [
+          32.64,
+          105.83999633789062
+        ]
+      ]
+    },
+    {
+      "title": "Spark vs MapReduce",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          33.6,
+          68.58
+        ],
+        [
+          416.64,
+          68.58
+        ],
+        [
+          416.64,
+          112.32
+        ],
+        [
+          33.6,
+          112.32
+        ]
+      ]
+    },
+    {
+      "title": "MapReduce processing",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          347.52,
+          155.51999999999998
+        ],
+        [
+          593.28,
+          155.51999999999998
+        ],
+        [
+          593.28,
+          180.36
+        ],
+        [
+          347.52,
+          180.36
+        ]
+      ]
+    },
+    {
+      "title": "Spark processing",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          378.24,
+          318.59999999999997
+        ],
+        [
+          561.5999999999999,
+          318.59999999999997
+        ],
+        [
+          561.5999999999999,
+          342.9
+        ],
+        [
+          378.24,
+          342.9
+        ]
+      ]
+    },
+    {
+      "title": "Spark vs MapReduce",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          33.6,
+          61.720001220703125
+        ],
+        [
+          415.68,
+          61.720001220703125
+        ],
+        [
+          415.68,
+          112.02999877929688
+        ],
+        [
+          33.6,
+          112.02999877929688
+        ]
+      ]
+    },
+    {
+      "title": "Spark vs MapReduce",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          33.6,
+          61.720001220703125
+        ],
+        [
+          415.68,
+          61.720001220703125
+        ],
+        [
+          415.68,
+          112.02999877929688
+        ],
+        [
+          33.6,
+          112.02999877929688
+        ]
+      ]
+    },
+    {
+      "title": "Implementasi Spark",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          34.56,
+          49.67999267578125
+        ],
+        [
+          455.04,
+          49.67999267578125
+        ],
+        [
+          455.04,
+          105.83999633789062
+        ],
+        [
+          34.56,
+          105.83999633789062
+        ]
+      ]
+    },
+    {
+      "title": "Resilient Distributed Dataset (RDD)",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          34.56,
+          49.67999267578125
+        ],
+        [
+          780.4799999999999,
+          49.67999267578125
+        ],
+        [
+          780.4799999999999,
+          105.83999633789062
+        ],
+        [
+          34.56,
+          105.83999633789062
+        ]
+      ]
+    },
+    {
+      "title": "Resilient Distributed Dataset (RDD)",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          48.96,
+          54.39996337890625
+        ],
+        [
+          468.48,
+          54.39996337890625
+        ],
+        [
+          468.48,
+          87.15997314453125
+        ],
+        [
+          48.96,
+          87.15997314453125
+        ]
+      ]
+    },
+    {
+      "title": "Resilient Distributed Dataset (RDD)",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          35.519999999999996,
+          56.699999999999996
+        ],
+        [
+          780.4799999999999,
+          56.699999999999996
+        ],
+        [
+          780.4799999999999,
+          105.84
+        ],
+        [
+          35.519999999999996,
+          105.84
+        ]
+      ]
+    },
+    {
+      "title": "Lazy evaluation:",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          661.4399999999999,
+          131.22
+        ],
+        [
+          792.0,
+          131.22
+        ],
+        [
+          792.0,
+          149.58
+        ],
+        [
+          661.4399999999999,
+          149.58
+        ]
+      ]
+    },
+    {
+      "title": "RDD Operations",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          33.6,
+          61.720001220703125
+        ],
+        [
+          358.08,
+          61.720001220703125
+        ],
+        [
+          358.08,
+          112.02999877929688
+        ],
+        [
+          33.6,
+          112.02999877929688
+        ]
+      ]
+    },
+    {
+      "title": "Bagaimana Spark Menjalankan Job?",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          32.64,
+          49.67999267578125
+        ],
+        [
+          739.2,
+          49.67999267578125
+        ],
+        [
+          739.2,
+          105.83999633789062
+        ],
+        [
+          32.64,
+          105.83999633789062
+        ]
+      ]
+    },
+    {
+      "title": "Bagaimana Spark Menjalankan Job?",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          36.480000000000004,
+          42.239990234375
+        ],
+        [
+          717.12,
+          42.239990234375
+        ],
+        [
+          717.12,
+          98.39999389648438
+        ],
+        [
+          36.480000000000004,
+          98.39999389648438
+        ]
+      ]
+    },
+    {
+      "title": "Bagaimana Spark Menjalankan Job?",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          32.64,
+          49.67999267578125
+        ],
+        [
+          739.2,
+          49.67999267578125
+        ],
+        [
+          739.2,
+          105.83999633789062
+        ],
+        [
+          32.64,
+          105.83999633789062
+        ]
+      ]
+    },
+    {
+      "title": "Spark on Yarn",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          34.56,
+          49.67999267578125
+        ],
+        [
+          343.68,
+          49.67999267578125
+        ],
+        [
+          343.68,
+          105.83999633789062
+        ],
+        [
+          34.56,
+          105.83999633789062
+        ]
+      ]
+    },
+    {
+      "title": "Contoh Spark (Scala)",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          33.6,
+          67.5
+        ],
+        [
+          424.32,
+          67.5
+        ],
+        [
+          424.32,
+          110.69999999999999
+        ],
+        [
+          33.6,
+          110.69999999999999
+        ]
+      ]
+    },
+    {
+      "title": "How to Start Spark",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          35.519999999999996,
+          61.720001220703125
+        ],
+        [
+          404.15999999999997,
+          61.720001220703125
+        ],
+        [
+          404.15999999999997,
+          112.02999877929688
+        ],
+        [
+          35.519999999999996,
+          112.02999877929688
+        ]
+      ]
+    },
+    {
+      "title": "Spark Session",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          33.6,
+          69.12
+        ],
+        [
+          293.76,
+          69.12
+        ],
+        [
+          293.76,
+          111.78
+        ],
+        [
+          33.6,
+          111.78
+        ]
+      ]
+    },
+    {
+      "title": "DataFrame dan SQL Spark",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          33.6,
+          68.58
+        ],
+        [
+          523.2,
+          68.58
+        ],
+        [
+          523.2,
+          111.78
+        ],
+        [
+          33.6,
+          111.78
+        ]
+      ]
+    },
+    {
+      "title": "Spark Streaming",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          33.6,
+          61.720001220703125
+        ],
+        [
+          340.79999999999995,
+          61.720001220703125
+        ],
+        [
+          340.79999999999995,
+          112.02999877929688
+        ],
+        [
+          33.6,
+          112.02999877929688
+        ]
+      ]
+    },
+    {
+      "title": "Spark Streaming",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          33.6,
+          68.58
+        ],
+        [
+          340.79999999999995,
+          68.58
+        ],
+        [
+          340.79999999999995,
+          111.78
+        ],
+        [
+          33.6,
+          111.78
+        ]
+      ]
+    },
+    {
+      "title": "Spark Web UI",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          35.519999999999996,
+          61.720001220703125
+        ],
+        [
+          302.4,
+          61.720001220703125
+        ],
+        [
+          302.4,
+          112.02999877929688
+        ],
+        [
+          35.519999999999996,
+          112.02999877929688
+        ]
+      ]
+    },
+    {
+      "title": "TERIMA KASIH",
+      "heading_level": null,
+      "page_id": 29,
+      "polygon": [
+        [
+          259.20000000000005,
+          253.79999999999998
+        ],
+        [
+          660.4799999999999,
+          253.79999999999998
+        ],
+        [
+          660.4799999999999,
+          299.70000000000005
+        ],
+        [
+          259.20000000000005,
+          299.70000000000005
+        ]
+      ]
+    },
+    {
+      "title": "Terima kasih",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          331.2,
+          208.32000732421875
+        ],
+        [
+          618.24,
+          208.32000732421875
+        ],
+        [
+          618.24,
+          271.5
+        ],
+        [
+          331.2,
+          271.5
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          19
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 4,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Diagram",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          3
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Diagram",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          31
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          51
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          47
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          30
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Diagram",
+          4
+        ],
+        [
+          "Span",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Line",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          43
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 1,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          47
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 1,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          17
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          11
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Diagram",
+          4
+        ],
+        [
+          "Caption",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          145
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          69
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Diagram",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          43
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          30
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          256
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          243
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          77
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          24
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          53
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          8
+        ],
+        [
+          "Span",
+          7
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          25
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          5
+        ],
+        [
+          "Span",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Line",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 28,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          55
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 29,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 30,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          5
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/12. Spark"
+}

@@ -1,0 +1,1855 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SQOOP",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          61.44,
+          202.08001708984375
+        ],
+        [
+          260.15999999999997,
+          202.08001708984375
+        ],
+        [
+          260.15999999999997,
+          265.260009765625
+        ],
+        [
+          61.44,
+          265.260009765625
+        ]
+      ]
+    },
+    {
+      "title": "Agenda Pertemuan",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          33.6,
+          61.720001220703125
+        ],
+        [
+          388.80000000000007,
+          61.720001220703125
+        ],
+        [
+          388.80000000000007,
+          112.02999877929688
+        ],
+        [
+          33.6,
+          112.02999877929688
+        ]
+      ]
+    },
+    {
+      "title": "Apa itu Sqoop?",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          35.519999999999996,
+          61.720001220703125
+        ],
+        [
+          320.64000000000004,
+          61.720001220703125
+        ],
+        [
+          320.64000000000004,
+          112.02999877929688
+        ],
+        [
+          35.519999999999996,
+          112.02999877929688
+        ]
+      ]
+    },
+    {
+      "title": "Apa itu Sqoop?",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          35.519999999999996,
+          61.720001220703125
+        ],
+        [
+          319.68,
+          61.720001220703125
+        ],
+        [
+          319.68,
+          112.02999877929688
+        ],
+        [
+          35.519999999999996,
+          112.02999877929688
+        ]
+      ]
+    },
+    {
+      "title": "Apa itu Sqoop?",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          33.6,
+          61.720001220703125
+        ],
+        [
+          320.64000000000004,
+          61.720001220703125
+        ],
+        [
+          320.64000000000004,
+          112.32
+        ],
+        [
+          33.6,
+          112.32
+        ]
+      ]
+    },
+    {
+      "title": "Format File di HDFS",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          32.64,
+          49.67999267578125
+        ],
+        [
+          469.43999999999994,
+          49.67999267578125
+        ],
+        [
+          469.43999999999994,
+          105.83999633789062
+        ],
+        [
+          32.64,
+          105.83999633789062
+        ]
+      ]
+    },
+    {
+      "title": "Apa perbedaan File System dan File Format?",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          62.400000000000006,
+          147.46124267578125
+        ],
+        [
+          619.2,
+          147.46124267578125
+        ],
+        [
+          619.2,
+          188.4730224609375
+        ],
+        [
+          62.400000000000006,
+          188.4730224609375
+        ]
+      ]
+    },
+    {
+      "title": "Format File di HDFS",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          36.480000000000004,
+          61.720001220703125
+        ],
+        [
+          411.84000000000003,
+          61.720001220703125
+        ],
+        [
+          411.84000000000003,
+          112.02999877929688
+        ],
+        [
+          36.480000000000004,
+          112.02999877929688
+        ]
+      ]
+    },
+    {
+      "title": "Text/CSV Files",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          78.72,
+          164.7
+        ],
+        [
+          202.56,
+          164.7
+        ],
+        [
+          202.56,
+          185.01602172851562
+        ],
+        [
+          78.72,
+          185.01602172851562
+        ]
+      ]
+    },
+    {
+      "title": "JSON Records",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          77.76,
+          244.07999999999998
+        ],
+        [
+          203.52,
+          244.07999999999998
+        ],
+        [
+          203.52,
+          264.6960144042969
+        ],
+        [
+          77.76,
+          264.6960144042969
+        ]
+      ]
+    },
+    {
+      "title": "Avro Files",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          97.92,
+          330.48
+        ],
+        [
+          183.36,
+          330.48
+        ],
+        [
+          183.36,
+          351.0959930419922
+        ],
+        [
+          97.92,
+          351.0959930419922
+        ]
+      ]
+    },
+    {
+      "title": "Sequence Files",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          75.84,
+          420.65999999999997
+        ],
+        [
+          205.44,
+          420.65999999999997
+        ],
+        [
+          205.44,
+          441.81600189208984
+        ],
+        [
+          75.84,
+          441.81600189208984
+        ]
+      ]
+    },
+    {
+      "title": "Format File di HDFS",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          35.519999999999996,
+          61.720001220703125
+        ],
+        [
+          412.79999999999995,
+          61.720001220703125
+        ],
+        [
+          412.79999999999995,
+          112.02999877929688
+        ],
+        [
+          35.519999999999996,
+          112.02999877929688
+        ]
+      ]
+    },
+    {
+      "title": "Record Columnar \n(RC) Files",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          67.2,
+          174.96
+        ],
+        [
+          217.51583862304688,
+          174.96
+        ],
+        [
+          217.51583862304688,
+          216.93600463867188
+        ],
+        [
+          67.2,
+          216.93600463867188
+        ]
+      ]
+    },
+    {
+      "title": "ORC Files",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          96.96000000000001,
+          301.86
+        ],
+        [
+          185.28000000000003,
+          301.86
+        ],
+        [
+          185.28000000000003,
+          322.53599548339844
+        ],
+        [
+          96.96000000000001,
+          322.53599548339844
+        ]
+      ]
+    },
+    {
+      "title": "Parquet Files",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          85.44,
+          424.44000000000005
+        ],
+        [
+          196.79999999999998,
+          424.44000000000005
+        ],
+        [
+          196.79999999999998,
+          445.656005859375
+        ],
+        [
+          85.44,
+          445.656005859375
+        ]
+      ]
+    },
+    {
+      "title": "Format File di HDFS",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          33.6,
+          67.5
+        ],
+        [
+          412.79999999999995,
+          67.5
+        ],
+        [
+          412.79999999999995,
+          103.68
+        ],
+        [
+          33.6,
+          103.68
+        ]
+      ]
+    },
+    {
+      "title": "Pertimbangan dalam Pemilihan Format File di HDFS",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          33.6,
+          63.279998779296875
+        ],
+        [
+          893.76,
+          63.279998779296875
+        ],
+        [
+          893.76,
+          110.08001708984375
+        ],
+        [
+          33.6,
+          110.08001708984375
+        ]
+      ]
+    },
+    {
+      "title": "Write Performance",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          127.68,
+          179.23199462890625
+        ],
+        [
+          319.68,
+          179.23199462890625
+        ],
+        [
+          319.68,
+          208.53598022460938
+        ],
+        [
+          127.68,
+          208.53598022460938
+        ]
+      ]
+    },
+    {
+      "title": "Partial Read Performance",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          96.96000000000001,
+          287.2319641113281
+        ],
+        [
+          350.4,
+          287.2319641113281
+        ],
+        [
+          350.4,
+          316.5359649658203
+        ],
+        [
+          96.96000000000001,
+          316.5359649658203
+        ]
+      ]
+    },
+    {
+      "title": "Full Read Performance",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          110.4,
+          393.55198669433594
+        ],
+        [
+          336.96,
+          393.55198669433594
+        ],
+        [
+          336.96,
+          422.8559799194336
+        ],
+        [
+          110.4,
+          422.8559799194336
+        ]
+      ]
+    },
+    {
+      "title": "Pertimbangan dalam Pemilihan Format File di HDFS",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          37.331999999999994,
+          315.2799987792969
+        ],
+        [
+          888.9560546875,
+          315.2799987792969
+        ],
+        [
+          888.9560546875,
+          362.08001708984375
+        ],
+        [
+          37.331999999999994,
+          362.08001708984375
+        ]
+      ]
+    },
+    {
+      "title": "Fitur dari Sqoop",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          33.6,
+          61.720001220703125
+        ],
+        [
+          340.79999999999995,
+          61.720001220703125
+        ],
+        [
+          340.79999999999995,
+          112.02999877929688
+        ],
+        [
+          33.6,
+          112.02999877929688
+        ]
+      ]
+    },
+    {
+      "title": "Sqoop Import",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          33.6,
+          67.5
+        ],
+        [
+          305.28000000000003,
+          67.5
+        ],
+        [
+          305.28000000000003,
+          110.69999999999999
+        ],
+        [
+          33.6,
+          110.69999999999999
+        ]
+      ]
+    },
+    {
+      "title": "Sqoop Import",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          33.6,
+          68.58
+        ],
+        [
+          305.28000000000003,
+          68.58
+        ],
+        [
+          305.28000000000003,
+          112.32
+        ],
+        [
+          33.6,
+          112.32
+        ]
+      ]
+    },
+    {
+      "title": "Sqoop Import (Incremental Load)",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          33.6,
+          67.5
+        ],
+        [
+          643.2,
+          67.5
+        ],
+        [
+          643.2,
+          110.69999999999999
+        ],
+        [
+          33.6,
+          110.69999999999999
+        ]
+      ]
+    },
+    {
+      "title": "Sqoop Import",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          33.6,
+          68.58
+        ],
+        [
+          305.28000000000003,
+          68.58
+        ],
+        [
+          305.28000000000003,
+          112.32
+        ],
+        [
+          33.6,
+          112.32
+        ]
+      ]
+    },
+    {
+      "title": "Incremental Load",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          37.44,
+          140.94
+        ],
+        [
+          217.92000000000002,
+          140.94
+        ],
+        [
+          217.92000000000002,
+          162.0
+        ],
+        [
+          37.44,
+          162.0
+        ]
+      ]
+    },
+    {
+      "title": "Import All Tables",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          499.20000000000005,
+          140.94
+        ],
+        [
+          675.8399999999999,
+          140.94
+        ],
+        [
+          675.8399999999999,
+          164.7
+        ],
+        [
+          499.20000000000005,
+          164.7
+        ]
+      ]
+    },
+    {
+      "title": "Sqoop Export",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          33.6,
+          68.58
+        ],
+        [
+          305.28000000000003,
+          68.58
+        ],
+        [
+          305.28000000000003,
+          111.78
+        ],
+        [
+          33.6,
+          111.78
+        ]
+      ]
+    },
+    {
+      "title": "Create table",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          38.400000000000006,
+          137.16
+        ],
+        [
+          167.03999999999996,
+          137.16
+        ],
+        [
+          167.03999999999996,
+          158.21999999999997
+        ],
+        [
+          38.400000000000006,
+          158.21999999999997
+        ]
+      ]
+    },
+    {
+      "title": "Jalankan command sqoop export",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          38.400000000000006,
+          277.56
+        ],
+        [
+          375.36,
+          277.56
+        ],
+        [
+          375.36,
+          301.32000000000005
+        ],
+        [
+          38.400000000000006,
+          301.32000000000005
+        ]
+      ]
+    },
+    {
+      "title": "Sqoop Jobs",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          33.6,
+          68.58
+        ],
+        [
+          253.44,
+          68.58
+        ],
+        [
+          253.44,
+          112.32
+        ],
+        [
+          33.6,
+          112.32
+        ]
+      ]
+    },
+    {
+      "title": "Sqoop Commands",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          61.44,
+          49.67999267578125
+        ],
+        [
+          432.0,
+          49.67999267578125
+        ],
+        [
+          432.0,
+          105.83999633789062
+        ],
+        [
+          61.44,
+          105.83999633789062
+        ]
+      ]
+    },
+    {
+      "title": "Sqoop Import Command",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          61.44,
+          57.239999999999995
+        ],
+        [
+          562.56,
+          57.239999999999995
+        ],
+        [
+          562.56,
+          105.84
+        ],
+        [
+          61.44,
+          105.84
+        ]
+      ]
+    },
+    {
+      "title": "Sqoop Commands",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          33.6,
+          61.720001220703125
+        ],
+        [
+          379.20000000000005,
+          61.720001220703125
+        ],
+        [
+          379.20000000000005,
+          112.02999877929688
+        ],
+        [
+          33.6,
+          112.02999877929688
+        ]
+      ]
+    },
+    {
+      "title": "Sqoop Commands",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          35.519999999999996,
+          61.720001220703125
+        ],
+        [
+          379.20000000000005,
+          61.720001220703125
+        ],
+        [
+          379.20000000000005,
+          112.02999877929688
+        ],
+        [
+          35.519999999999996,
+          112.02999877929688
+        ]
+      ]
+    },
+    {
+      "title": "Contoh Import",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          64.32000000000001,
+          57.239999999999995
+        ],
+        [
+          374.40000000000003,
+          57.239999999999995
+        ],
+        [
+          374.40000000000003,
+          105.30000000000001
+        ],
+        [
+          64.32000000000001,
+          105.30000000000001
+        ]
+      ]
+    },
+    {
+      "title": "Buat tabel widgets",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          68.16,
+          126.36000000000001
+        ],
+        [
+          295.68,
+          126.36000000000001
+        ],
+        [
+          295.68,
+          152.28
+        ],
+        [
+          68.16,
+          152.28
+        ]
+      ]
+    },
+    {
+      "title": "Import tabel widgets ke HDFS",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          528.96,
+          117.18
+        ],
+        [
+          881.28,
+          117.18
+        ],
+        [
+          881.28,
+          142.56
+        ],
+        [
+          528.96,
+          142.56
+        ]
+      ]
+    },
+    {
+      "title": "Contoh Import",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          61.44,
+          57.239999999999995
+        ],
+        [
+          375.36,
+          57.239999999999995
+        ],
+        [
+          375.36,
+          105.30000000000001
+        ],
+        [
+          61.44,
+          105.30000000000001
+        ]
+      ]
+    },
+    {
+      "title": "Import tabel widgets ke HDFS",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          528.96,
+          116.64000000000001
+        ],
+        [
+          880.3199999999999,
+          116.64000000000001
+        ],
+        [
+          880.3199999999999,
+          142.02
+        ],
+        [
+          528.96,
+          142.02
+        ]
+      ]
+    },
+    {
+      "title": ". Contoh Membaca Hasil Import",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          0.0,
+          54.0
+        ],
+        [
+          681.5999999999999,
+          54.0
+        ],
+        [
+          681.5999999999999,
+          108.0
+        ],
+        [
+          0.0,
+          108.0
+        ]
+      ]
+    },
+    {
+      "title": "Terima kasih",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          331.2,
+          208.32000732421875
+        ],
+        [
+          618.24,
+          208.32000732421875
+        ],
+        [
+          618.24,
+          271.5
+        ],
+        [
+          331.2,
+          271.5
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          27
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 4,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          23
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          154
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          15
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Diagram",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          139
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListGroup",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          57
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          23
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          166
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          19
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Line",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 1,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          15
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          33
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Table",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 1,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Span",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Line",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          13
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "Text",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 1,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          55
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 2,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Text",
+          24
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          19
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          35
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          5
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/8. Sqoop"
+}
